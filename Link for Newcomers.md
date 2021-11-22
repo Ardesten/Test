@@ -2,7 +2,7 @@
 
 📷
 
-*Welcome! Bellow you will find what we think are the most commonly used resourced to get you started in Go.If you need more, check out our* [*wiki*](https://www.reddit.com/r/baduk/wiki)*.*
+*Welcome! Bellow you will find what we think are the most commonly used resources to get you started in Go.If you need more, check out our* [*wiki*](https://www.reddit.com/r/baduk/wiki)*.*
 
 **INTERACTIVE TUTORIALS (**[full list](https://www.reddit.com/r/baduk/wiki/tutorials)**)**
 
@@ -38,13 +38,12 @@
 **WHERE TO LEARN MORE**
 
 ○ [senseis.xmp.net](https://senseis.xmp.net/) \- A Go player's wikipedia.  
-○ [openstudyroom.org](https://openstudyroom.org/) \- An online community dedicated to learning and teaching Go (sort of an online Go club)
-
+○ [openstudyroom.org](https://openstudyroom.org/) \- An online community dedicated to learning and teaching Go (sort of an online Go club) \
 ○ [List of Youtube lessons creators](https://www.reddit.com/r/baduk/wiki/youtube_channels)  
 ○ [List of recommended books](https://www.reddit.com/r/baduk/wiki/books)  
 ○ [Go programs and apps](https://www.reddit.com/r/baduk/wiki/programs)
 
-**OPENING PATTERNS:**
+**OPENING PATTERNS**
 
 *Databases:*  
 ○ [online-go.com/joseki](https://online-go.com/joseki) \- A commented database of current optimal opening patterns (joseki).  

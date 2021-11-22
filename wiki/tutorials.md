@@ -12,8 +12,8 @@ A mobile friendly website dedicated to full explanations of the rules and basic 
 #### ⬤ [**Learn Go Now**](https://learn-go.now.sh/)
 A sort of a compromise between full and minimalistic explanations, mobile friendly.
 
-#### ⬤ [**The Interactive Way to Go**](http://playgo.to/iwtg/en/)
-A highly regarded tutorial with content localized to many languages. Unfortunatelly technically very outdated (flash based), will not work on mobile and might be difficult to run on any modern browser.
+#### ⬤ [**The Interactive Way to Go**](https://way-to-go.gitlab.io/#/en/intro)
+A rewrite using modern methods of [The Interactive Way to Go](https://web.archive.org/web/20210831172631/http://www.playgo.to/iwtg/en/), a very highly regarded tutorial with content localized to many languages. Unfortunatelly the new version is currently available only in English.
 
 ## Video tutorials
 

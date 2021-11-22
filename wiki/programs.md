@@ -1,10 +1,21 @@
 ## **Programs for game analysis**
 
-#### ⬤ [**Lizzie**](https://github.com/featurecat/lizzie/releases/tag/0.7.2)
+
+#### ⬤ [**Lizzie**](https://github.com/featurecat/lizzie/releases)
 Currently one of the most popular interfaces for AI reviews, packed with both Leela Zero and Katago.
+
+#### ⬤ [**Katrain**](https://github.com/sanderland/katrain/releases)
+A popular interface for analyzing games and playing go with AI feedback from KataGo.
 
 #### ⬤ [**Go Review Partner**](http://yuntingdian.com/goreviewpartner/)
 For automated game reviews with an output graph and other visualizations.
+
+#### ⬤ [**AI Sensei**](https://ai-sensei.com/)
+An online tool that analyzes your games with strong Go AIs (Katago or LeelaZero) in a powerful cloud and lets you make flashcards of your mistakes. The free plan is limited to 50 playouts.
+
+#### ⬤ [**ZBaduk**](https://www.zbaduk.com/tools)
+An online tool which lets you review and analyze your games using powerful models of LeelaZero or KataGO hosted on dedicated cloud servers. The free plan has some limitations.
+
 
 ---
 
@@ -15,6 +26,9 @@ Cross-platform simple and elegant client.
 
 #### ⬤ [**Drago**](http://www.godrago.net/)
 A bit oldschool client, but with a vast majority of tools.
+
+#### ⬤ [**GOWrite**](http://gowrite.net/)
+A full featured SGF viewer and editor
 
 ---
 
